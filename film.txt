@@ -1,0 +1,1 @@
+Cinema [listOfFilm=[Film [name=q, cinemaHall=CinemaHall [hallNum=1], session=Session [sessions=[0002-04-05T06:05]]]
